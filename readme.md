@@ -7,7 +7,7 @@ You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform
 # How to use the repo 
 * Clone this repo locally to a folder of your choice
 ```
-git clone https://github.com/peterchiviyski/terraform_null_provider.git
+git clone https://github.com/peterchiviyski/null_provider.git
 ```
 * Make sure you are in the main directory of the repo:
 
