@@ -12,7 +12,7 @@ git clone https://github.com/peterchiviyski/null_provider.git
 * Make sure you are in the main directory of the repo:
 
 ```
-cd terraform_null_provider
+cd null_provider
 ```
 * initialize Terraform  
 ```
